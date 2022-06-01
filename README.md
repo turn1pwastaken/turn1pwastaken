@@ -1,6 +1,6 @@
 - hi, i'm turn1pwastaken, or hazel.
 - my intrests are clone hero, geometry dash, and dance games
-- im currently learning python, c#, and html
+- im currently learning python, c#,vrchat, and html
 - if you want to contact me, friend me on discord: hazel~#9999
 
 <!---
